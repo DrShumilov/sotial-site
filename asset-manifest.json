@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/DrShumilov/sotial-site.git/static/css/main.cf649599.chunk.css",
-    "main.js": "/DrShumilov/sotial-site.git/static/js/main.cf3a91cf.chunk.js",
-    "main.js.map": "/DrShumilov/sotial-site.git/static/js/main.cf3a91cf.chunk.js.map",
-    "runtime~main.js": "/DrShumilov/sotial-site.git/static/js/runtime~main.65e59aea.js",
-    "runtime~main.js.map": "/DrShumilov/sotial-site.git/static/js/runtime~main.65e59aea.js.map",
-    "static/js/2.c9bfa472.chunk.js": "/DrShumilov/sotial-site.git/static/js/2.c9bfa472.chunk.js",
-    "static/js/2.c9bfa472.chunk.js.map": "/DrShumilov/sotial-site.git/static/js/2.c9bfa472.chunk.js.map",
-    "index.html": "/DrShumilov/sotial-site.git/index.html",
-    "precache-manifest.c1c978f8cca9f777e2b1248087e00924.js": "/DrShumilov/sotial-site.git/precache-manifest.c1c978f8cca9f777e2b1248087e00924.js",
-    "service-worker.js": "/DrShumilov/sotial-site.git/service-worker.js",
-    "static/css/main.cf649599.chunk.css.map": "/DrShumilov/sotial-site.git/static/css/main.cf649599.chunk.css.map",
-    "static/media/25.svg": "/DrShumilov/sotial-site.git/static/media/25.d77aaca0.svg",
-    "static/media/img_profile.png": "/DrShumilov/sotial-site.git/static/media/img_profile.e6348d6b.png"
+    "main.css": "/sotial-site/static/css/main.cf649599.chunk.css",
+    "main.js": "/sotial-site/static/js/main.64335496.chunk.js",
+    "main.js.map": "/sotial-site/static/js/main.64335496.chunk.js.map",
+    "runtime~main.js": "/sotial-site/static/js/runtime~main.7abe811d.js",
+    "runtime~main.js.map": "/sotial-site/static/js/runtime~main.7abe811d.js.map",
+    "static/js/2.c9bfa472.chunk.js": "/sotial-site/static/js/2.c9bfa472.chunk.js",
+    "static/js/2.c9bfa472.chunk.js.map": "/sotial-site/static/js/2.c9bfa472.chunk.js.map",
+    "index.html": "/sotial-site/index.html",
+    "precache-manifest.a7178e05f958fb9ec39954d5e8729932.js": "/sotial-site/precache-manifest.a7178e05f958fb9ec39954d5e8729932.js",
+    "service-worker.js": "/sotial-site/service-worker.js",
+    "static/css/main.cf649599.chunk.css.map": "/sotial-site/static/css/main.cf649599.chunk.css.map",
+    "static/media/25.svg": "/sotial-site/static/media/25.d77aaca0.svg",
+    "static/media/img_profile.png": "/sotial-site/static/media/img_profile.e6348d6b.png"
   }
 }
